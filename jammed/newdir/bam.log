@@ -1,0 +1,8 @@
+This log will not be ignored by git or included in gitignore if 
+.gitnore contains /newdir/ instead of /newdir
+/ implies files that exist outside and not inside other files
+
+Now we see changes by using gitdif, Just wait and watch
+This change is made with earlier change add to staged state but not commited
+
+git commit -a -m "Direct Commit message written"
